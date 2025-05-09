@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42781e06-f866-490d-8e73-65a81605d724" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2vXzjO2EGk5zNiZiIJQhnGdwA6m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LoginView.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainView.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RegisterView.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserView.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.MainView">
+    <configuration name="LoginView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soulvirart.view.LoginView" />
+      <module name="SoulVirArt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soulvirart.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soulvirart.application.MainApp" />
+      <module name="SoulVirArt" />
+      <option name="VM_PARAMETERS" value="java --module-path &quot;F:\Laptrinh\Java\javafx-sdk-21.0.6\lib&quot; --add-modules javafx.controls,javafx.fxml -cp &quot;C:\Users\Lenovo\IdeaProjects\SoulVirArt\target\classes;C:\Users\Lenovo\IdeaProjects\SoulVirArt\target\resources&quot; com.soulviart.application.MainApp " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soulvirart.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soulvirart.view.MainView" />
+      <module name="SoulVirArt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soulvirart.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soulvirart.view.RegisterView" />
+      <module name="SoulVirArt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soulvirart.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soulvirart.view.UserView" />
+      <module name="SoulVirArt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soulvirart.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainView" />
+        <item itemvalue="Application.LoginView" />
+        <item itemvalue="Application.RegisterView" />
+        <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.UserView" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42781e06-f866-490d-8e73-65a81605d724" name="Changes" comment="" />
+      <created>1744306344656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744306344656</updated>
+    </task>
+    <servers />
+  </component>
+</project>
